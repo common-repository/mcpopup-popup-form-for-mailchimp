@@ -1,0 +1,58 @@
+#toplevel_page_mcpup_general_settings a.toplevel_page_mcpup_general_settings .dashicons-before:before{
+	font-family: 'mcpopup-mail-icon' !important;
+	content: '\e800' !important;
+}
+
+a.mcpup-get-premex:before{
+	font-family: 'dashicons' !important;
+	content: "\f155" !important;
+	margin-right: 2px;
+}
+
+a.mcpup-get-premex, a.mcpup-exofuse{
+	color: #3fa248 !important;
+	font-weight:600;
+}
+
+.mcpopup-admin-form a.mcpup-premex-btn,
+.mcpopup-admin-form a.mcpup-premex-btn:active,
+.mcpopup-admin-form a.mcpup-premex-btn:hover{
+	background: #61ba00 !important;
+	border-color: #61ba00 #5aaa03 #5aaa03 !important;
+	box-shadow: 0 1px 0 #5aaa03 !important;
+	color: #fff !important;
+	text-decoration: none !important;
+	text-shadow: 0 -1px 1px #5aaa03, 1px 0 1px #5aaa03, 0 1px 1px #5aaa03, -1px 0 1px #5aaa03 !important;
+	margin-left: 15px !important;
+}
+
+.mcpopup-admin-form a.mcpup-premex-btn:before{
+	font-family: 'dashicons' !important;
+    content: "\f155" !important;
+    margin-right: 5px;
+    line-height:1 !important;
+}
+
+.mcpopup-admin-form a.mcpup-read-eou,
+.mcpopup-admin-form a.mcpup-read-eou:active,
+.mcpopup-admin-form a.mcpup-read-eou:hover{
+	background: #9913dd !important;
+	border-color: #9913dd #8410bf #8410bf !important;
+	box-shadow: 0 1px 0 #8410bf !important;
+	color: #fff !important;
+	text-decoration: none !important;
+	text-shadow: 0 -1px 1px #8410bf, 1px 0 1px #8410bf, 0 1px 1px #8410bf, -1px 0 1px #8410bf !important;
+	margin-left: 15px !important;
+}
+
+.mcpopup-admin-form a.mcpup-reset-btn,
+.mcpopup-admin-form a.mcpup-reset-btn:active,
+.mcpopup-admin-form a.mcpup-reset-btn:hover{
+	background: #dd9613 !important;
+    border-color: #dd9613 #c78711 #c78711 !important;
+    box-shadow: 0 1px 0 #c78711 !important;
+    color: #fff !important;
+    text-decoration: none !important;
+    text-shadow: 0 -1px 1px #c78711, 1px 0 1px #c78711, 0 1px 1px #c78711, -1px 0 1px #c78711 !important;
+    margin-left: 15px !important;
+}

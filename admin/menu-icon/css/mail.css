@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'mcpopup-mail-icon';
+  src: url('../font/mail.eot?91597928');
+  src: url('../font/mail.eot?91597928#iefix') format('embedded-opentype'),
+       url('../font/mail.woff2?91597928') format('woff2'),
+       url('../font/mail.woff?91597928') format('woff'),
+       url('../font/mail.ttf?91597928') format('truetype'),
+       url('../font/mail.svg?91597928#mail') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+ 
+.mcpopup-mail-icon:before {
+  font-family: 'mcpopup-mail-icon';
+  content: '\e800';
+}
